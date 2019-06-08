@@ -13,5 +13,8 @@ public class MainActivity extends AppCompatActivity {
 
     private void textUp(){
         int i = 1;
+
+        int ii =1;
+
     }
 }
